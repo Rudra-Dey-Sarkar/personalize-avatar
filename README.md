@@ -43,6 +43,7 @@ I guide the style using:
 > **“3D children’s illustration style, Pixar-like soft pastel colors, smooth textures, big expressive eyes, warm lighting, colourful home background, keeping the original person’s pose and identity.”**
 
 ### **Architecture Overview**
+<img width="194" height="426" alt="Screenshot 2025-12-09 155136" src="https://github.com/user-attachments/assets/208dfb5f-62d7-4691-be73-e21424317a42" />
 
 ## **Model Choice**
 
